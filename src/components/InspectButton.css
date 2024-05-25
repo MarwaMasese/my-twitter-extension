@@ -1,0 +1,16 @@
+/* src/components/InspectButton.css */
+.inspect-button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  
+  .inspect-button:hover {
+    background-color: darkgreen;
+  }
+  
