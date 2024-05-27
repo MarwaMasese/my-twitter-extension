@@ -12,9 +12,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://twitter.com/bitcoin/*",
-      "*://twitter.com/bitcoin/*"
-    ],
+      "matches": ["*://x.com/bitcoin/*"],
       "js": ["contentScript.js"]
     }
   ],
